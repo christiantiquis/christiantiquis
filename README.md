@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻Working as an Application Systems Engineer and Consultant.<br>📚Currently learning Angular and Java.<br>🧑‍💼Looking for remote work as a Frontend Developer.
+🧑‍💻Software Engineer | Full Stack Developer.<br>📚Interested in AI and Machine Learning.<br>🧑‍💼Looking for remote work as a Full Stack Developer.
 
 
 ## 🌐 Socials:
